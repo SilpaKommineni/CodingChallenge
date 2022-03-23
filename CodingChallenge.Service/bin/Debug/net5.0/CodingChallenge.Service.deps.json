@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodingChallenge.Service/1.0.0": {
+        "dependencies": {
+          "CodingChallenge.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CodingChallenge.Service.dll": {}
+        }
+      },
+      "CodingChallenge.Domain/1.0.0": {
+        "runtime": {
+          "CodingChallenge.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodingChallenge.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodingChallenge.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

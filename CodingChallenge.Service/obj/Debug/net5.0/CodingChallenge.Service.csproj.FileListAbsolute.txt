@@ -1,0 +1,15 @@
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\CodingChallenge.Service.deps.json
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\CodingChallenge.Service.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\ref\CodingChallenge.Service.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\CodingChallenge.Service.pdb
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\CodingChallenge.Domain.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\bin\Debug\net5.0\CodingChallenge.Domain.pdb
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.csproj.AssemblyReference.cache
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.AssemblyInfoInputs.cache
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.AssemblyInfo.cs
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.csproj.CoreCompileInputs.cache
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.csproj.CopyComplete
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\ref\CodingChallenge.Service.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Service\obj\Debug\net5.0\CodingChallenge.Service.pdb

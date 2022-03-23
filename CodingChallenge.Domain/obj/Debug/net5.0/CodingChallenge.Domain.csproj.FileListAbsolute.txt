@@ -1,0 +1,11 @@
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\bin\Debug\net5.0\CodingChallenge.Domain.deps.json
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\bin\Debug\net5.0\CodingChallenge.Domain.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\bin\Debug\net5.0\ref\CodingChallenge.Domain.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\bin\Debug\net5.0\CodingChallenge.Domain.pdb
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.AssemblyInfo.cs
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\ref\CodingChallenge.Domain.dll
+C:\Users\cheta_xvms1bb\source\repos\CondingChallenge\CodingChallenge.Domain\obj\Debug\net5.0\CodingChallenge.Domain.pdb
